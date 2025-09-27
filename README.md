@@ -21,9 +21,9 @@ GreenLeaf Stores was started in 2024 to make eco-friendly living easy and cheap 
 
 Product Focus: Sustainable, reusable, non-toxic, and environmentally friendly home goods.Target Market: Ten U.S. states' worth of environmentally conscious consumers, particularly millennials and Gen Z.Early Success: Orders increased quickly in the first year, indicating high market demand. CURRENT CHALLENGEThe company's lack of established data standards, despite its growth, put it at danger for      ineffective operations, ambiguous performance measurements, and possible financial loss.THE SIGNIFICANCESustainability and e-commerce are two significant themes that GreenLeaf is situated at the nexus      of in an era of rising environmental consciousness and digital-first shopping. GreenLeaf has the potential to dominate its market and grow rapidly with the correct data   infrastructure and insight tools.
 
-**Stage 4
+**Stage 4**
 
-MAJOR PROBLEM OF THE GREENLEAF STORE**
+**MAJOR PROBLEM OF THE GREENLEAF STORE**
 
 The main issue GreenLeaf is dealing with is: Making decisions without following a methodical, data-driven process. This shows up in a number of important   ways:Data chaos: Raw data that is unstructured, inconsistent, and lacking (e.g., mixed casing, missing prices).Absence of KPIs Crucial metrics like revenue trends, product performance, and delivery       effectiveness are not visible to leadership.Manual reporting: Because reports were created on the fly, they were ineffective, inconsistent,      and prone to mistakes.Reactive decision-making: Instead of using data to inform judgments, guesswork     was used in the absence of real-time insights.
 
